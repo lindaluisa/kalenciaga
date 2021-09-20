@@ -7,13 +7,19 @@ html, body {
   padding: 15px;
 }
 
-.kaleContainer {
+.kaleBtn {
+  color: var(--pastell);
+  background-color: var(--orange);
+  border-color: var(--orange);
+  border-radius: 20px;
+  padding: 5px 50px;
+}
+
+/* .kaleContainer {
   border-top-left-radius: 32px;
   border-top-right-radius: 32px;
   
-}
-
-
+} */
 
 
 :root {

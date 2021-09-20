@@ -22,16 +22,16 @@ export const Navbar = () => {
                         exact
                         to="/"
                     >
-                        Protocol
+                        Fruit Juice
                     </NavLink>
 
                     <NavLink 
                         activeClassName="active"
                         className="nav-item nav-link" 
                         exact
-                        to="/juice"
+                        to="/green"
                     >
-                        Juice
+                        Green Juice
                     </NavLink>
 
 

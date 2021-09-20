@@ -6,24 +6,24 @@ import {
 } from "react-router-dom";
 
 
-import { Login } from '../components/login/Login';
-import { DashboardRoutes } from './DashboardRoutes';
+import { LoginScreen } from '../components/Login/LoginScreen';
+import { JuicesRoutes } from './JuicesRoutes';
+
 // import { Navbar } from '../components/ui/Navbar';
 
 export const AppRouter = () => {
   return (
     <Router>
       <div>
+
         {/* <Navbar /> */}
 
         <Switch>
-            <Route exact path="/login" component={ Login }/>
-            <Route path="/" component={ DashboardRoutes }/>
+            <Route exact path="/login" component={ LoginScreen }/>
+            <Route path="/" component={ JuicesRoutes }/>
         </Switch>
       </div>
+
     </Router>
   )
 }
-
-
-// export default AppRouter;

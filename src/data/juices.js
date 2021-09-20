@@ -1,0 +1,223 @@
+export const juices = [
+  {
+      'id': 'day-1',
+      'day':'Day 1', 
+      'energy':'Yes', 
+      'category':'Fruit Juice', 
+      'juice2':'Pineapple Cucumber Beet Juice', 
+      'amount':'3l',
+      'detox':'Bruce Wayne',
+      'sleep':'Detective Comics #27',
+      'notes':'Bruce Wayne'
+  },
+  {
+      'id': 'day-2',
+      'day':'Day 2', 
+      'energy':'Yes', 
+      'category':'Green Juice', 
+      'juice2':'Carrot Juice', 
+      'amount':'3l',
+      'detox':'Kal-El',
+      'sleep':'Action Comics #1',
+      'notes':'Kal-El'
+  },
+  {
+      'id': 'day-3',
+      'day':'Day 3', 
+      'energy':'Yes', 
+      'category':'Green Juice', 
+      'juice2':'Watermelon Juice', 
+      'amount':'3l',
+      'detox':'Jay Garrick, Barry Allen, Wally West, Bart Allen',
+      'sleep':'Flash Comics #1',
+      'notes':'Jay Garrick, Barry Allen, Wally West, Bart Allen'
+  },
+  {
+      'id': 'day-4',
+      'day':'Day 4', 
+      'energy':'Yes', 
+      'category':'Green Juice', 
+      'juice2':'Watermelon Juice', 
+      'amount':'3l',
+      'detox':'Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz',
+      'sleep':'All-American Comics #16',
+      'notes':'Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz'
+  },
+  {
+      'id': 'day-5',
+      'day':'Day 5', 
+      'energy':'Yes', 
+      'category':'Fruit Juice', 
+      'juice2':'Carrot Juice', 
+      'amount':'3l',
+      'detox':'Oliver Queen',
+      'sleep':'More Fun Comics #73',
+      'notes':'Oliver Queen'
+  },
+  {
+      'id': 'day-6',
+      'day':'Day 6', 
+      'energy':'Yes', 
+      'category':'Green Juice', 
+      'juice2':'Cellery Juice',
+      'amount':'3l',
+      'detox':'Princess Diana',
+      'sleep':'All Star Comics #8',
+      'notes':'Princess Diana'
+  },
+  {
+      'id': 'day-7',
+      'day':'Day 7', 
+      'energy':'Yes', 
+      'category':'Fruit Juice', 
+      'juice2':'DC Comics', 
+      'amount':'3l',
+      'detox':'Day',
+      'sleep':'Detective Comics #225',
+      'notes':'Day'
+  },
+  {
+      'id': 'day-8',
+      'day':'Day 8', 
+      'energy':'Yes', 
+      'category':'Green Juice', 
+      'juice2':'DC Comics', 
+      'amount':'3l',
+      'detox':'Day',
+      'sleep':'Detective Comics #38',
+      'notes':'Day'
+  },
+  {
+      'id': 'day-9',
+      'day':'Day 9', 
+      'energy':'Yes', 
+      'category':'Green Juice', 
+      'juice2':'Cellery Juice', 
+      'amount':'3l',
+      'detox':'Dan Garret, Ted Kord, Jaime Reyes',
+      'sleep':'Mystery Men Comics #1',
+      'notes':'Dan Garret, Ted Kord, Jaime Reyes'
+  },
+  {
+      'id': 'day-10',
+      'day':'Day 10', 
+      'energy':'No', 
+      'category':'Fruit Juice', 
+      'juice2':'DC Comics', 
+      'amount':'3l',
+      'detox':'Dinah Drake, Dinah Lance',
+      'sleep':'Flash Comics #86',
+      'notes':'Dinah Drake, Dinah Lance'
+  },
+  {
+      'id': 'day-11',
+      'day':'Day 11', 
+      'energy':'Yes', 
+      'category':'Green Juice', 
+      'juice2':'Marvel Comics', 
+      'amount':'3l',
+      'detox':'Peter Parker',
+      'sleep':'Amazing Fantasy #15',
+      'notes':'Peter Parker'
+  },
+  {
+      'id': 'day-12',
+      'day':'Day 12', 
+      'energy':'Yes', 
+      'category':'Fruit Juice', 
+      'juice2':'Cellery Juice', 
+      'amount':'3l',
+      'detox':'Steve Rogers',
+      'sleep':'Captain America Comics #1',
+      'notes':'Steve Rogers'
+  },
+  {
+      'id': 'day-13',
+      'day':'Day 13', 
+      'energy':'No', 
+      'category':'Green Juice', 
+      'juice2':'Marvel Comics', 
+      'amount':'3l',
+      'detox':'Tony Stark',
+      'sleep':'Tales of Suspense #39',
+      'notes':'Tony Stark'
+  },
+  {
+      'id': 'day-14',
+      'day':'Day 14', 
+      'energy':'No', 
+      'category':'Green Juice', 
+      'juice2':'Marvel Comics', 
+      'amount':'3l',
+      'detox':'Thor Odinson',
+      'sleep':'Journey into Myster #83',
+      'notes':'Thor Odinson'
+  },
+  {
+      'id': 'day-15',
+      'day':'Day 15', 
+      'energy':'Yes', 
+      'category':'Green Juice', 
+      'juice2':'Pineapple Cucumber Beet Juice', 
+      'amount':'3l',
+      'detox':'Bruce Banner',
+      'sleep':'The Incredible Hulk #1',
+      'notes':'Bruce Banner'
+  },
+  {
+      'id': 'day-16',
+      'day':'Day 16', 
+      'energy':'No', 
+      'category':'Fruit Juice', 
+      'juice':'Fruit Juice', 
+      'juice2':'Marvel Comics', 
+      'amount':'3l',
+      'detox':'James Howlett',
+      'sleep':'The Incredible Hulk #180',
+      'notes':'James Howlett'
+  },
+  {
+      'id': 'day-17',
+      'day':'Day 17', 
+      'energy':'Yes', 
+      'category':'Fruit Juice', 
+      'juice2':'Marvel Comics', 
+      'amount':'3l',
+      'detox':'Matthew Michael Murdock',
+      'sleep':'Daredevil #1',
+      'notes':'Matthew Michael Murdock'
+  },
+  {
+      'id': 'day-18',
+      'day':'Day 18', 
+      'energy':'Yes', 
+      'category':'Fruit Juice', 
+      'juice2':'Carrot Juice', 
+      'amount':'3l',
+      'detox':'Clinton Francis Barton',
+      'sleep':'Tales of Suspense #57',
+      'notes':'Clinton Francis Barton'
+  },
+  {
+      'id': 'day-19',
+      'day':'Day 19', 
+      'energy':'Yes', 
+      'category':'Green Juice', 
+      'juice2':'Marvel Comics', 
+      'amount':'3l',
+      'detox':'Scott Summers',
+      'sleep':'X-Men #1',
+      'notes':'Scott Summers'
+  },
+  {
+      'id': 'day-20',
+      'day':'Day 20', 
+      'energy':'Yes', 
+      'category':'Fruit Juice', 
+      'juice2':'Marvel Comics', 
+      'amount':'3l',
+      'detox':'Norrin Radd',
+      'sleep':'The Fantastic Four #48',
+      'notes':'Norrin Radd'
+  }
+]

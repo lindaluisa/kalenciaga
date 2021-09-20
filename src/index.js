@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import {KaleApp} from './KaleApp';
+import { KaleApp } from './KaleApp';
 
 
 
