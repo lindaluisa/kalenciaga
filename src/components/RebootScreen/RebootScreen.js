@@ -1,13 +1,14 @@
 import React from "react";
 
+
 import { JuiceList } from "../JuicesScreen/JuiceList";
 
-export const FruitScreen = () => {
+export const RebootScreen = () => {
   return (
     <div>
-      <h1>Fruit Juice</h1>
+      <h1 className="text-center">Reboot</h1>
 
-        <JuiceList category="Fruit Juice" />
+        <JuiceList category="Reboot" />
     
     </div>
   );

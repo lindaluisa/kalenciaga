@@ -4,14 +4,14 @@ import { Link, NavLink } from 'react-router-dom';
 
 export const Navbar = () => {
     return (
-        <nav className="navbar navbar-expand-sm navbar-dark kaleNav">
+        <nav className="navbar navbar-expand-sm kaleNav">
             
-            {/* <Link 
-                className="navbar-brand" 
+            <Link 
+                className="kaleTitle" 
                 to="/"
             >
-                Asociaciones
-            </Link> */}
+                Kalenciaga
+            </Link>
 
             <div className="navbar-collapse">
                 <div className="navbar-nav">
@@ -22,16 +22,16 @@ export const Navbar = () => {
                         exact
                         to="/"
                     >
-                        Fruit Juice
+                        Reboot
                     </NavLink>
 
                     <NavLink 
                         activeClassName="active"
                         className="nav-item nav-link" 
                         exact
-                        to="/green"
+                        to="/fast"
                     >
-                        Green Juice
+                        Juice Fast
                     </NavLink>
 
 

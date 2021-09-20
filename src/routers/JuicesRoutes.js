@@ -3,9 +3,10 @@ import { Switch, Route, Redirect } from 'react-router';
 
 
 import { Navbar } from '../components/Layout/Navbar';
-import { FruitScreen } from '../components/FruitScreen/FruitScreen';
-import { GreenScreen } from '../components/GreenScreen/GreenScreen';
+import { FastingScreen } from '../components/FastingScreen/FastingScreen';
 import { JuicesScreen } from '../components/JuicesScreen/JuicesScreen';
+import { RebootScreen } from '../components/RebootScreen/RebootScreen';
+
 
 export const JuicesRoutes = () => {
   return (
@@ -13,14 +14,14 @@ export const JuicesRoutes = () => {
 
       <Navbar />
 
-      <div>
+      <div className="container mt-2">
 
         <Switch>
-          <Route exact path="/fruit" component={ FruitScreen } />
-          <Route exact path="/green" component={ GreenScreen } />
+          <Route exact path="/reboot" component={ RebootScreen } />
+          <Route exact path="/fast" component={ FastingScreen } />
           <Route exact path="/juice/:dayId" component={ JuicesScreen } />
 
-          <Redirect to="/fruit" />
+          <Redirect to="/reboot" />
         </Switch>
 
       </div>

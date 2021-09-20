@@ -1,20 +1,22 @@
 import React from 'react';
 import { getJuicesByCategory } from '../../selectors/getJuicesByCategory';
+import { JuiceCard } from './JuiceCard';
 
 export const JuiceList = ({ category }) => {
 
   const juices = getJuicesByCategory( category );
 
   return (
-    <ul>
+    <div className="card-columns">
       {
         juices.map( juice => (
-          <li key={juice.id}>
-              { juice.juice2 }
-          </li>
+          <JuiceCard 
+              key={juice.id}
+              { ...juice} >
+          </JuiceCard>
         ))
       }
-    </ul>
+    </div>
   )
 }
  

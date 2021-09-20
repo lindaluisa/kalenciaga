@@ -1,9 +1,18 @@
+/* GLOBAL VARS */
 html, body {
   background-color: var(--pastell);
+  color: var(--green);
 }
 
+h1 {
+  text-transform: uppercase;
+  font-family: Londrina Outline;
+}
+
+
+/* KALE VARS */
 .kaleNav{
-  background-color: var(--green);
+  background-color: var(--orange);
   padding: 15px;
 }
 
@@ -15,10 +24,30 @@ html, body {
   padding: 5px 50px;
 }
 
+.kaleTitle {
+  font-family: 'Londrina Outline';
+  font-size: 40px;
+  text-decoration: underline;
+  color: var(--green);
+  text-transform: uppercase;
+}
+
+
+/* BOOTSTRAP */
+.nav-link {
+  color: var(--green);
+  text-transform: uppercase;
+}
+
+.nav-link:hover {
+  text-transform: uppercase;
+  color: var(--green);
+  text-decoration: underline;
+}
+
 /* .kaleContainer {
   border-top-left-radius: 32px;
   border-top-right-radius: 32px;
-  
 } */
 
 

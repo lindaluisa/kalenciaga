@@ -1,12 +1,12 @@
 import React from "react";
 import { JuiceList } from "../JuicesScreen/JuiceList";
 
-export const GreenScreen = () => {
+export const FastingScreen = () => {
   return (
     <div>
-      <h1>Green Juice</h1>
+      <h1 className="text-center">Fast</h1>
 
-      <JuiceList category="Green Juice" />
+      <JuiceList category="Fast" />
     </div>
   )
 }
