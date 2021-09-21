@@ -14,7 +14,7 @@ export const LoginScreen = ( {history} ) => {
           <div className="card-body">
             <h5 className="card-title">Login</h5>
             <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
-            <p className="card-text">A Reboot is the perfect way to power up your system with fresh, clean, plant-based energy. When you juice, your system is flooded with an abun-dance of vitamins, minerals and phytonutrients—plant compounds that help your body stay strong, look beautiful and fight disease. </p>
+            <p className="card-text">A Reboot is the perfect way to power up your system with fresh, clean, plant-based weight. When you juice, your system is flooded with an abun-dance of vitamins, minerals and phytonutrients—plant compounds that help your body stay strong, look beautiful and fight disease. </p>
             <button
           className="btn kaleBtn"
           onClick={ handleLogin }

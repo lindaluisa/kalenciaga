@@ -6,7 +6,7 @@ import { JuiceList } from "../JuicesScreen/JuiceList";
 export const RebootScreen = () => {
   return (
     <div>
-      <h1 className="text-center">Reboot</h1>
+      <h1 className="text-center kaleTitle">Reboot</h1>
 
         <JuiceList category="Reboot" />
     

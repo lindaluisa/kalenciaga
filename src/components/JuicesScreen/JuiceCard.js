@@ -1,11 +1,12 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 export const JuiceCard = ( {
     id,
     day,
-    energy,
+    weight,
     category,
-    juice2,
+    juice,
     amount,
     detox,
     sleep,
@@ -16,11 +17,18 @@ export const JuiceCard = ( {
 
     <div className="card m-3" style={ {maxWidth: 540} }>
       <div className="row no-gutters">
-        <div className="col-md-4">
-          <img src={`./assets/juices/${juice2}.jpg`} className="card-img" alt={ juice2 }/>
+        <div className="">
+          <img src={`./assets/juices/${juice}.jpg`} className="card-img" alt={ juice }/>
           <div className="col-md-8">
             <div className="card-body">
-              <h5 className="card-title"> { juice2 }</h5>
+              <h5 className="card-title"> { day }</h5>
+              <p className="card-text">{ juice } </p>
+              <p className="card-text"> Weight: { weight } </p>
+
+              <Link to={`./juice/${ id }`}>
+                More...
+              </Link>
+
             </div>
           </div>
         </div>

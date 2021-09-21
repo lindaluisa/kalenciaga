@@ -9,6 +9,11 @@ h1 {
   font-family: Londrina Outline;
 }
 
+a {
+  color: var(--orange);
+  text-decoration: underline;
+}
+
 
 /* KALE VARS */
 .kaleNav{
@@ -43,6 +48,15 @@ h1 {
   text-transform: uppercase;
   color: var(--green);
   text-decoration: underline;
+}
+
+.card,
+.card-img {
+  border-radius: calc(1.25rem - 1px);
+}
+
+.card {
+  border: #fceadb 1px solid;
 }
 
 /* .kaleContainer {

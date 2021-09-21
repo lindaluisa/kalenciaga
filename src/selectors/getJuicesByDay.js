@@ -1,14 +1,14 @@
 import { juices } from '../data/juices';
 
-export const getJuicesByDay = ( energy ) => {
+export const getJuicesByDay = ( weight ) => {
   
-  const validEnergy = ['Yes', 'No'];
+  const validweight = ['Yes', 'No'];
   
-  if (!validEnergy.includes ( energy ) ) {
+  if (!validweight.includes ( weight ) ) {
 
-    throw new Error(`Juice "${ energy }" is incorrect`);
+    throw new Error(`Juice "${ weight }" is incorrect`);
   } 
 
-  return juices.filter( juice => juice.energy === energy);
+  return juices.filter( juice => juice.weight === weight);
 }
 
