@@ -4,10 +4,10 @@ html, body {
   color: var(--green);
 }
 
-h1 {
+/* h1 {
   text-transform: uppercase;
   font-family: Londrina Outline;
-}
+} */
 
 a {
   color: var(--orange);
@@ -27,13 +27,14 @@ a {
   border-color: var(--orange);
   border-radius: 20px;
   padding: 5px 50px;
+  text-transform: uppercase;
 }
 
 .kaleTitle {
   font-family: 'Londrina Outline';
   font-size: 40px;
   text-decoration: underline;
-  color: var(--green);
+  color: var(--red);
   text-transform: uppercase;
 }
 
@@ -48,6 +49,10 @@ a {
   text-transform: uppercase;
   color: var(--green);
   text-decoration: underline;
+}
+
+.card-title {
+  text-transform: uppercase;
 }
 
 .card,
@@ -70,6 +75,7 @@ a {
   --text: #222222;
   --green: #03565A;
   --orange: #DC511A;
+  --red: #842029;
   --blue: #092349;
   --pastell: #FCEADB;
   --rose: #D8C0C5;

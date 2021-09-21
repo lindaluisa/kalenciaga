@@ -34,6 +34,15 @@ export const Navbar = () => {
                         Juice Fast
                     </NavLink>
 
+                    <NavLink 
+                        activeClassName="active"
+                        className="nav-item nav-link" 
+                        exact
+                        to="/search"
+                    >
+                        Search Detox Symptoms
+                    </NavLink>
+
 
                 </div>
             </div>

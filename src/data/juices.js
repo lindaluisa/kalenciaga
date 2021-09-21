@@ -8,7 +8,7 @@ export const juices = [
       'amount':'3l',
       'detox':'Bruce Wayne',
       'sleep':'Detective Comics #27',
-      'notes':'Bruce Wayne'
+      'notes':'Fall edamame salad cumin mangos red pepper shaved almonds lavender lemonade blueberries pine nuts soba noodles ultimate seitan chocolate peanut butter dip. Lime mango crisp cherry sweet potato bananas fiery fruit hummus falafel bowl picnic hearty cherry bomb creamy cauliflower alfredo sauce dark chocolate summertime almonds chili pepper. Soy milk avocado dressing drizzle hot Thai super chili Thai crunchy miso turmeric glazed aubergine avocado spiced peppermint blast pasta lychee scotch bonnet pepper'
   },
   {
       'id': 'day-2',
@@ -19,7 +19,7 @@ export const juices = [
       'amount':'3l',
       'detox':'Kal-El',
       'sleep':'Action Comics #1',
-      'notes':'Kal-El'
+      'notes':'Southern Italian dragon fruit lentils spiced pumpkin chili lemonade zest fig arugula cashew salad springtime strawberry chili Thai sun pepper tomato and basil casserole ghost pepper black beans. Indian spiced fresh chai tea tofu raspberries apples mint cozy butternut couscous sleepy morning tea comforting pumpkin spice latte almond milk chai latte balsamic vinaigrette strawberry mango smoothie fruit smash.'
   },
   {
       'id': 'day-3',
@@ -52,7 +52,7 @@ export const juices = [
       'amount':'3l',
       'detox':'Oliver Queen',
       'sleep':'More Fun Comics #73',
-      'notes':'Oliver Queen'
+      'notes':'Southern Italian dragon fruit lentils spiced pumpkin chili lemonade zest fig arugula cashew salad springtime strawberry chili Thai sun pepper tomato and basil casserole ghost pepper black beans. Indian spiced fresh chai tea tofu raspberries apples mint cozy butternut couscous sleepy morning tea comforting pumpkin spice latte almond milk chai latte balsamic vinaigrette strawberry mango smoothie fruit smash.'
   },
   {
       'id': 'day-6',
@@ -63,7 +63,7 @@ export const juices = [
       'amount':'3l',
       'detox':'Princess Diana',
       'sleep':'All Star Comics #8',
-      'notes':'Princess Diana'
+      'notes':'Fall edamame salad cumin mangos red pepper shaved almonds lavender lemonade blueberries pine nuts soba noodles ultimate seitan chocolate peanut butter dip. Lime mango crisp cherry sweet potato bananas fiery fruit hummus falafel bowl picnic hearty cherry bomb creamy cauliflower alfredo sauce dark chocolate summertime almonds chili pepper. Soy milk avocado dressing drizzle hot Thai super chili Thai crunchy miso turmeric glazed aubergine avocado spiced peppermint blast pasta lychee scotch bonnet pepper'
   },
   {
       'id': 'day-7',
@@ -74,7 +74,7 @@ export const juices = [
       'amount':'3l',
       'detox':'Day',
       'sleep':'Detective Comics #225',
-      'notes':'Day'
+      'notes':'Fall edamame salad cumin mangos red pepper shaved almonds lavender lemonade blueberries pine nuts soba noodles ultimate seitan chocolate peanut butter dip. Lime mango crisp cherry sweet potato bananas fiery fruit hummus falafel bowl picnic hearty cherry bomb creamy cauliflower alfredo sauce dark chocolate summertime almonds chili pepper. Soy milk avocado dressing drizzle hot Thai super chili Thai crunchy miso turmeric glazed aubergine avocado spiced peppermint blast pasta lychee scotch bonnet pepper'
   },
   {
       'id': 'day-8',
@@ -85,7 +85,7 @@ export const juices = [
       'amount':'3l',
       'detox':'Day',
       'sleep':'Detective Comics #38',
-      'notes':'Day'
+      'notes':'Fall edamame salad cumin mangos red pepper shaved almonds lavender lemonade blueberries pine nuts soba noodles ultimate seitan chocolate peanut butter dip. Lime mango crisp cherry sweet potato bananas fiery fruit hummus falafel bowl picnic hearty cherry bomb creamy cauliflower alfredo sauce dark chocolate summertime almonds chili pepper. Soy milk avocado dressing drizzle hot Thai super chili Thai crunchy miso turmeric glazed aubergine avocado spiced peppermint blast pasta lychee scotch bonnet pepper'
   },
   {
       'id': 'day-9',
@@ -96,7 +96,7 @@ export const juices = [
       'amount':'3l',
       'detox':'Dan Garret, Ted Kord, Jaime Re57.9 kg',
       'sleep':'Mystery Men Comics #1',
-      'notes':'Dan Garret, Ted Kord, Jaime Re55 kg'
+      'notes':'Southern Italian dragon fruit lentils spiced pumpkin chili lemonade zest fig arugula cashew salad springtime strawberry chili Thai sun pepper tomato and basil casserole ghost pepper black beans. Indian spiced fresh chai tea tofu raspberries apples mint cozy butternut couscous sleepy morning tea comforting pumpkin spice latte almond milk chai latte balsamic vinaigrette strawberry mango smoothie fruit smash.'
   },
   {
       'id': 'day-10',
@@ -107,7 +107,7 @@ export const juices = [
       'amount':'3l',
       'detox':'Dinah Drake, Dinah Lance',
       'sleep':'Flash Comics #86',
-      'notes':'Dinah Drake, Dinah Lance'
+      'notes':'Southern Italian dragon fruit lentils spiced pumpkin chili lemonade zest fig arugula cashew salad springtime strawberry chili Thai sun pepper tomato and basil casserole ghost pepper black beans. Indian spiced fresh chai tea tofu raspberries apples mint cozy butternut couscous sleepy morning tea comforting pumpkin spice latte almond milk chai latte balsamic vinaigrette strawberry mango smoothie fruit smash.'
   },
   {
       'id': 'day-11',
@@ -118,7 +118,7 @@ export const juices = [
       'amount':'3l',
       'detox':'Peter Parker',
       'sleep':'Amazing Fantasy #15',
-      'notes':'Peter Parker'
+      'notes':'Southern Italian dragon fruit lentils spiced pumpkin chili lemonade zest fig arugula cashew salad springtime strawberry chili Thai sun pepper tomato and basil casserole ghost pepper black beans. Indian spiced fresh chai tea tofu raspberries apples mint cozy butternut couscous sleepy morning tea comforting pumpkin spice latte almond milk chai latte balsamic vinaigrette strawberry mango smoothie fruit smash.'
   },
   {
       'id': 'day-12',
@@ -129,7 +129,7 @@ export const juices = [
       'amount':'3l',
       'detox':'Steve Rogers',
       'sleep':'Captain America Comics #1',
-      'notes':'Steve Rogers'
+      'notes':'Crunchy seaweed street style Thai basil tacos basmati blood orange smash lingonberry apricot raspberry fizz cherries picnic salad hummus cashew black bean wraps eating together simmer main course figs Chinese five-spice powder. Sesame soba noodles enchiladas golden cayenne pepper lemon tahini dressing bento box smoky maple tempeh glaze cinnamon toast crispy iceberg lettuce chocolate coconut milk hazelnut shiitake sparkling pomegranate punch vine tomatoes red grapes black bean chili dip chickpea crust pizza.'
   },
   {
       'id': 'day-13',
@@ -151,7 +151,7 @@ export const juices = [
       'amount':'3l',
       'detox':'Thor Odinson',
       'sleep':'Journey into Myster #83',
-      'notes':'Thor Odinson'
+      'notes':'Crunchy seaweed street style Thai basil tacos basmati blood orange smash lingonberry apricot raspberry fizz cherries picnic salad hummus cashew black bean wraps eating together simmer main course figs Chinese five-spice powder. Sesame soba noodles enchiladas golden cayenne pepper lemon tahini dressing bento box smoky maple tempeh glaze cinnamon toast crispy iceberg lettuce chocolate coconut milk hazelnut shiitake sparkling pomegranate punch vine tomatoes red grapes black bean chili dip chickpea crust pizza.'
   },
   {
       'id': 'day-15',
@@ -174,7 +174,7 @@ export const juices = [
       'amount':'3l',
       'detox':'James Howlett',
       'sleep':'The Incredible Hulk #180',
-      'notes':'James Howlett'
+      'notes':'Crunchy seaweed street style Thai basil tacos basmati blood orange smash lingonberry apricot raspberry fizz cherries picnic salad hummus cashew black bean wraps eating together simmer main course figs Chinese five-spice powder. Sesame soba noodles enchiladas golden cayenne pepper lemon tahini dressing bento box smoky maple tempeh glaze cinnamon toast crispy iceberg lettuce chocolate coconut milk hazelnut shiitake sparkling pomegranate punch vine tomatoes red grapes black bean chili dip chickpea crust pizza.'
   },
   {
       'id': 'day-17',
@@ -207,7 +207,7 @@ export const juices = [
       'amount':'3l',
       'detox':'Scott Summers',
       'sleep':'X-Men #1',
-      'notes':'Scott Summers'
+      'notes':'Crunchy seaweed street style Thai basil tacos basmati blood orange smash lingonberry apricot raspberry fizz cherries picnic salad hummus cashew black bean wraps eating together simmer main course figs Chinese five-spice powder. Sesame soba noodles enchiladas golden cayenne pepper lemon tahini dressing bento box smoky maple tempeh glaze cinnamon toast crispy iceberg lettuce chocolate coconut milk hazelnut shiitake sparkling pomegranate punch vine tomatoes red grapes black bean chili dip chickpea crust pizza.'
   },
   {
       'id': 'day-20',
@@ -218,7 +218,7 @@ export const juices = [
       'amount':'3l',
       'detox':'Norrin Radd',
       'sleep':'The Fantastic Four #48',
-      'notes':'Norrin Radd'
+      'notes':'Crunchy seaweed street style Thai basil tacos basmati blood orange smash lingonberry apricot raspberry fizz cherries picnic salad hummus cashew black bean wraps eating together simmer main course figs Chinese five-spice powder. Sesame soba noodles enchiladas golden cayenne pepper lemon tahini dressing bento box smoky maple tempeh glaze cinnamon toast crispy iceberg lettuce chocolate coconut milk hazelnut shiitake sparkling pomegranate punch vine tomatoes red grapes black bean chili dip chickpea crust pizza.'
   },
   {
       'id': 'day-21',
@@ -229,6 +229,6 @@ export const juices = [
       'amount':'3l',
       'detox':'Norrin Radd',
       'sleep':'The Fantastic Four #48',
-      'notes':'Norrin Radd'
+      'notes':'Crunchy seaweed street style Thai basil tacos basmati blood orange smash lingonberry apricot raspberry fizz cherries picnic salad hummus cashew black bean wraps eating together simmer main course figs Chinese five-spice powder. Sesame soba noodles enchiladas golden cayenne pepper lemon tahini dressing bento box smoky maple tempeh glaze cinnamon toast crispy iceberg lettuce chocolate coconut milk hazelnut shiitake sparkling pomegranate punch vine tomatoes red grapes black bean chili dip chickpea crust pizza.'
   },
 ]
